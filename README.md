@@ -7,3 +7,5 @@ https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
 https://github.com/milenevlacerda/womakers-code-summit
 
 https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb
+
+https://github.com/vuejs-templates/pwa
